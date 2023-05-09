@@ -1,0 +1,149 @@
+* {
+    box-sizing: border-box;
+}
+
+.nm {
+    margin-bottom: 30px;
+}
+
+.inpnm {
+    width: 515px;
+    height: 30px;
+    border: 0;
+    border-bottom: 2px solid lightgrey;
+    padding-left: 15px;
+}
+
+.imgusn {
+    width: 30px;
+    height: 30px;
+    border: 0;
+    background-image: url(../images/username.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+.adr {
+    margin-bottom: 30px;
+}
+
+.maddr {
+    width: 515px;
+    height: 30px;
+    border: 0;
+    border-bottom: 2px solid lightgrey;
+    padding-left: 15px;
+}
+
+.imgmail {
+    width: 30px;
+    height: 30px;
+    border: 0;
+    background-image: url(../images/email.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+.psw {
+    width: 245px;
+    height: 30px;
+    border: 0;
+    border-bottom: 2px solid lightgrey;
+    padding-left: 15px;
+    margin-right: 20px;
+}
+
+.pswcon {
+    width: 245px;
+    height: 30px;
+    border: 0;
+    border-bottom: 2px solid lightgrey;
+    padding-left: 15px;
+}
+
+.imgpswr {
+    width: 30px;
+    height: 30px;
+    border: 0;
+    background-image: url(../images/pswd.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+.nmsur {
+    margin-bottom: 30px;
+}
+
+.name {
+    width: 263px;
+    height: 30px;
+    border: 0;
+    border-bottom: 2px solid lightgrey;
+    padding-left: 15px;
+    margin-right: 20px;
+}
+
+.surname {
+    width: 263px;
+    height: 30px;
+    border: 0;
+    border-bottom: 2px solid lightgrey;
+    padding-left: 15px;
+}
+
+.persdet {
+    margin-bottom: 30px;
+    margin-top: 50px;
+}
+
+.gen {
+    width: 263px;
+    height: 30px;
+    border: 0;
+    border-bottom: 2px solid lightgrey;
+    padding-left: 15px;
+    margin-right: 20px;
+}
+
+.dat {
+    width: 263px;
+    height: 30px;
+    border: 0;
+    border-bottom: 2px solid lightgrey;
+    padding-left: 15px;
+}
+
+.frch {
+    margin-bottom: 15px;
+}
+
+.regf {
+    margin-left: 30px;
+    padding-top: 20px;
+}
+
+.line {
+    margin-top: 60px;
+    border-bottom: 2px solid lightgrey;
+    width: 605px;
+}
+
+.btn {
+    width: 135px;
+    height: 30px;
+    color: white;
+    background-color: darkcyan;
+    border: 0;
+    margin-left: 70%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.container {
+    width: 605px;
+    margin: 25px;
+    box-shadow: -1px 4px 23px 22px rgb(211 211 211 / 54%);
+}
